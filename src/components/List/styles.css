@@ -1,0 +1,7 @@
+.listItems {
+  display: grid;
+  gap: 64px;
+  justify-content: center;
+
+  grid-template-columns: repeat(auto-fit, minmax(289px, 289px));
+}

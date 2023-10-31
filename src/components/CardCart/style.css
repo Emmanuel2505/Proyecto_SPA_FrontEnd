@@ -1,0 +1,12 @@
+.h1CardCart{
+    grid-area: title;
+    text-align: center;
+    line-height: 32px;
+    font-weight: 400;
+    font-size: 21px;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}

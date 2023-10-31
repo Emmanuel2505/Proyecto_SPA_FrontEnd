@@ -1,0 +1,15 @@
+.nav {
+  max-width: 1520px;
+  width: 100%;
+}
+
+.login {
+  margin-right: 0px;
+}
+
+@media screen and (max-width: 768px) {
+  .show-options {
+    visibility: hidden !important;
+    display: none !important;
+  }
+}
