@@ -8,10 +8,10 @@ En el directorio del proyecto, puede ejecutar
 
 ### `npm start`
 
-Ejecuta la aplicación en el modo de desarrollo.\N
+Ejecuta la aplicación en el modo de desarrollo.
 Abre [http://localhost:3000](http://localhost:3000) para verla en tu navegador.
 
-La página se recargará cuando realices cambios.\\
+La página se recargará cuando realices cambios.
 También puedes ver cualquier error de lint en la consola.
 
 ### `npm test`
